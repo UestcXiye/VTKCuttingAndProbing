@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VTKCuttingAndProbing", "VTKCuttingAndProbing\VTKCuttingAndProbing.vcxproj", "{9D3FF0C5-0B47-472A-8ABE-640D44888501}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D3FF0C5-0B47-472A-8ABE-640D44888501}.Debug|x64.ActiveCfg = Debug|x64
+		{9D3FF0C5-0B47-472A-8ABE-640D44888501}.Debug|x64.Build.0 = Debug|x64
+		{9D3FF0C5-0B47-472A-8ABE-640D44888501}.Release|x64.ActiveCfg = Release|x64
+		{9D3FF0C5-0B47-472A-8ABE-640D44888501}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0772D493-1F8F-4212-AC0F-DB72A5ECB6E3}
+	EndGlobalSection
+EndGlobal
